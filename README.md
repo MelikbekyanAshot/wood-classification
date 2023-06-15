@@ -26,3 +26,5 @@
 Пример верно предсказанных классов сортности
 
 <img src="assets/predicted_labels.png" alt="Predicted" width="500"/>
+
+Веса модели доступны по ссылке: https://drive.google.com/drive/folders/1V-vAoji3s9dBsNzYbXSDV8v84obEp4aL?usp=drive_link
